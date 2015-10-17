@@ -1,10 +1,11 @@
 # Design Patterns
-Design Patterns – easier than simple. Realization of GoF Design Patterns on language C#.
+Design Patterns – easier than simple.
+Realization of **GoF Design Patterns** on language C#.
 
 
 ### Patterns
 
-* Structural
+* **Structural**
     * Composite
     * Adapter
     * Bridge
@@ -12,7 +13,7 @@ Design Patterns – easier than simple. Realization of GoF Design Patterns on la
     * Facade
     * Flyweight
     * Proxy
-* Creational
+* **Creational**
     * AbstractFactory
     * Builder
     * FactoryMethod
@@ -20,7 +21,7 @@ Design Patterns – easier than simple. Realization of GoF Design Patterns on la
     * ObjectPool
     * Prototype
     * Singleton
-* Behavioral
+* **Behavioral**
     * ChainoOfResponsibility
     * Iterator
     * Mediator
