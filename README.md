@@ -1,5 +1,5 @@
 # Design Patterns
-Design Patterns – easier than simple. Realization of GoF Design Patterns
+Design Patterns – easier than simple. Realization of GoF Design Patterns on language C#.
 
 
 ### Patterns
